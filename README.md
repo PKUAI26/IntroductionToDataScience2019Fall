@@ -1,1 +1,59 @@
-# IntroductionToDataScience2019Fall
+## Introduction to Data Science
+
+
+### Announcements
+
+
+### Administrative information
+
+- **Lecturer:** [Zhanxing Zhu](https://sites.google.com/view/zhanxingzhu/)
+- **Teaching Assistants:**
+    - Hantao Guo, 1701214311@pku.edu.cn
+    - Yuanjin Zhu, 1701214267@pku.edu.cn
+    - Junzhao Zhang, 1801213960@pku.edu.cn
+
+- **Time:** Mon: 1:00-2:50 pm; Thu: 3:10-5:00 pm.
+
+- **Location:**  Room 107, [Teaching Building 2](https://maps.baidu.com/poi/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6(%E7%87%95%E5%9B%AD%E6%A0%A1%E5%8C%BA)%E7%AC%AC%E4%BA%8C%E6%95%99%E5%AD%A6%E6%A5%BC(%E6%9D%8E%E5%85%86%E5%9F%BA%E6%A5%BC)/@12948834.869857343,4837581.844142513,19.6z?uid=82548a63754afc91735e80e4&primaryUid=10472254985355704340&ugc_type=3&ugc_ver=1&device_ratio=1&compat=1&querytype=detailConInfo&da_src=shareurl)
+
+
+### Course Content
+
+**Description:**
+
+This course is a preliminary course for learning from data, artificial intelligence and other related application areas.
+
+**Prerequisite:**
+
+- Calculus, linear algebra, basic statistics, numerical optimization, signal processing
+- Programming and algorithms, e.g. Python
+
+
+### Grading
+
+**Mid-term exam** (40%): writing exam (Nov 25)
+
+**Final projects** (60%):
+
+- Kaggle-in-Class competition, select 1 out of 3
+- including submission to the Kaggle platform and report writing
+- Deadline: Jan 19, 2020 (strict)
+- At most 2 students as a team
+
+
+### References
+
+- Elements of statistical learning
+- Pattern recognition and machine learning
+- Vapnik. The nature of statistical learning theory
+- 《数据科学导引》
+
+
+---
+### Schedule (subject to change)
+
+#### Week 1
+- Mon 9/9: Introduction to Data Science
+    - [Lecture 1](slides/lec1+lec2.pdf)
+- Thu 9/12: Review of Preliminary Knowledge
+    - [Lecture 2](slides/lec1+lec2.pdf)
