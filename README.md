@@ -9,7 +9,7 @@
 - **Lecturer:** [Zhanxing Zhu](https://sites.google.com/view/zhanxingzhu/)
 - **Teaching Assistants:**
     - Hantao Guo, guohantao@pku.edu.cn
-    - Yuanjin Zhu, 1701214267@pku.edu.cn
+    - Yuanjin Zhu, syxz1995@gmail.com
     - Junzhao Zhang, 1801213960@pku.edu.cn
 
 - **Time:** Mon: 1:00-2:50 pm; Thu(odd week): 3:10-5:00 pm.
