@@ -8,7 +8,7 @@
 
 - **Lecturer:** [Zhanxing Zhu](https://sites.google.com/view/zhanxingzhu/)
 - **Teaching Assistants:**
-    - Hantao Guo, 1701214311@pku.edu.cn
+    - Hantao Guo, guohantao@pku.edu.cn
     - Yuanjin Zhu, 1701214267@pku.edu.cn
     - Junzhao Zhang, 1801213960@pku.edu.cn
 
