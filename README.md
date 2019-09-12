@@ -31,7 +31,7 @@ This course is a preliminary course for learning from data, artificial intellige
 
 ### Grading
 
-**Mid-term exam** (40%): writing exam (Nov 25)
+**Mid-term exam** (40%): writing exam (Dec 9)
 
 **Final projects** (60%):
 
