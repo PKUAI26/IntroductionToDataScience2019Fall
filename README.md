@@ -39,7 +39,7 @@ This course is a preliminary course for learning from data, artificial intellige
 - including submission to the Kaggle platform and report writing
 - Deadline: Jan 19, 2020 (strict)
 - At most 2 students as a team
-- the websizes of competitions are as follows
+- the links of competitions are as follows
     - [Traffic Prediction](https://www.kaggle.com/t/966947f0c9454eec8fab55e15d2bbacd)
     - [Flower Classification](https://www.kaggle.com/t/25f30048035046078ae2359a85241a39)
     - [PES Challenge](https://www.kaggle.com/t/85b078a8fa4f45648c01b488b8925876)
