@@ -61,5 +61,6 @@ This course is a preliminary course for learning from data, artificial intellige
     - [Lecture 1](slides/lec1+lec2.pdf)
 - Thu 9/12: Review of Preliminary Knowledge
     - [Lecture 2](slides/lec1+lec2.pdf)
+#### Week 2
 - Mon 9/16: Data Preprocess
     - [Lecture 3](slides/data+preprocessing.pdf)
