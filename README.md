@@ -64,3 +64,6 @@ This course is a preliminary course for learning from data, artificial intellige
 #### Week 2
 - Mon 9/16: Data Preprocess
     - [Lecture 3](slides/data+preprocessing.pdf)
+#### Week 3
+- Mon 9/23: Regression
+    - [Lecture 4](slides/regression.pdf)
