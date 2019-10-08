@@ -67,3 +67,6 @@ This course is a preliminary course for learning from data, artificial intellige
 #### Week 3
 - Mon 9/23: Regression
     - [Lecture 4](slides/regression.pdf)
+#### Week 5
+- Mon 10/7: Classification
+    - [Lecture 5](slides/classification+1.pdf)
