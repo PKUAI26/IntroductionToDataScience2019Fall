@@ -71,4 +71,4 @@ This course is a preliminary course for learning from data, artificial intellige
 - Mon 10/7: Classification
     - [Lecture 5](slides/classification+1.pdf)
 - Thu 10/10: Statistical Learning Theory
-    - [Lecture 6](slides/classification+1(1).pdf)
+    - [Lecture 6](slides/classification+1 (1).pdf)
