@@ -68,7 +68,10 @@ This course is a preliminary course for learning from data, artificial intellige
 - Mon 9/23: Regression
     - [Lecture 4](slides/regression.pdf)
 #### Week 5
-- Mon 10/7: Classification
+- Mon 10/7: Classification1
     - [Lecture 5](slides/classification+1.pdf)
-- Thu 10/10: Statistical Learning Theory
+- Thu 10/10: Classification2
     - [Lecture 6](slides/classification+1(1).pdf)
+#### Week 6
+- Mon 10/14: Classification3
+    - [Lecture 7]()
