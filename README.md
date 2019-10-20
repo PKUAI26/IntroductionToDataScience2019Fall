@@ -76,3 +76,4 @@ This course is a preliminary course for learning from data, artificial intellige
 - Mon 10/14: Classification3
     - [Lecture 7](slides/classification+2.pdf)
 - Thu 10/17
+    - [Lecture 8](slides/ensemble.pdf)
