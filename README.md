@@ -77,3 +77,6 @@ This course is a preliminary course for learning from data, artificial intellige
     - [Lecture 7](slides/classification+2.pdf)
 - Thu 10/17: Ensemble
     - [Lecture 8](slides/ensemble.pdf)
+#### Week 7
+- Mon 10/21: Clustering
+    - [Lecture 9](slides/clustering.pdf)
