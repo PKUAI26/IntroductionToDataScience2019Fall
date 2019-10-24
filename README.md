@@ -80,3 +80,5 @@ This course is a preliminary course for learning from data, artificial intellige
 #### Week 7
 - Mon 10/21: Clustering
     - [Lecture 9](slides/clustering.pdf)
+- Thu 10/24: Dimension Reduction
+    - [Lecture 10](slides/dimensionality+reduction.pdf)
