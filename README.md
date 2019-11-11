@@ -86,5 +86,10 @@ This course is a preliminary course for learning from data, artificial intellige
 - Mon 10/28: Dimension Reduction2
     - [Lecture 11](slides/dimensionality+reduction(1).pdf)
 #### Week 9
-- Mon 11/4: Graphical Models
+- Mon 11/4: Graphical Models1
     - [Lecture 12](slides/GM_1.pdf)
+- Thu 11/7: Graphical Models2
+    - [Lecture 13](slides/GM_2.pdf)
+#### Week10
+- Mon 11/11: Graphical Models3
+    - [Lecture14](slides/GM_3_4.pdf)
