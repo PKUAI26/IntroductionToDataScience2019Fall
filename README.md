@@ -97,3 +97,7 @@ This course is a preliminary course for learning from data, artificial intellige
 - Mon 11/18: Graphical Models4
 - Thu 11/21: Graphical Models5
     - [lecture15](slides/GM_4_Sampling.pdf)
+#### Week 12
+- Mon 11/25
+#### Week 13
+- Mon 12/2
