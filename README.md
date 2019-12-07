@@ -103,3 +103,4 @@ This course is a preliminary course for learning from data, artificial intellige
 #### Week 13
 - Mon 12/2: Introduction to Deep Learning
     - [Lecture17](slides/introduction+to+deep+learning.pdf)
+- Thu 12/7
