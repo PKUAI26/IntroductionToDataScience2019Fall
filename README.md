@@ -105,4 +105,6 @@ This course is a preliminary course for learning from data, artificial intellige
     - [Lecture17](slides/introduction+to+deep+learning.pdf)
 - Thu 12/7
 #### Week 14
-- Mon 12/9
+- Mon 12/9: Mid-term Exam
+#### Week 15
+- Mon 12/16
