@@ -108,3 +108,4 @@ This course is a preliminary course for learning from data, artificial intellige
 - Mon 12/9: Mid-term Exam
 #### Week 15
 - Mon 12/16
+- Thu 12/19
