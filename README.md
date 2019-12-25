@@ -109,3 +109,5 @@ This course is a preliminary course for learning from data, artificial intellige
 #### Week 15
 - Mon 12/16
 - Thu 12/19
+#### Week 16
+- Mon 12/23
